@@ -38,7 +38,7 @@
 - [Project 1](https://github.com/Kenainy-aizen/your-project-1) — Short description of what it does
 - [Project 2](https://github.com/Kenainy-aizen/your-project-2) — Short description
 - [Project 3](https://github.com/Kenainy-aizen/your-project-3) — Short description
--->
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://github.com/Kenainy-aizen">
@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenainy-aizen&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views" />
 </p>
-
+-->
 <!--
 **Kenainy-aizen/Kenainy-aizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
