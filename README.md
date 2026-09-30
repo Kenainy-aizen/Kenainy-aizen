@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kenainy-aizen+%F0%9F%91%8B;Full+Stack+Developer;I+build+usef[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kenainy-aizen+%F0%9F%91%8B;Full+Stack+Developer;I+build+useful+projects" alt="Typing animation" />
 </div>
 
 <h1 align="center">🚀 Kenainy-aizen</h1>
@@ -34,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kenainy-aizen&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenainy-aizen&theme=radical&hide_border=true" alt="GitHub streak" height="180" />
 </div>
+
 <!--
 ### 🔥 Featured Projects
 - [Project 1](https://github.com/Kenainy-aizen/your-project-1) — Short description of what it does
@@ -56,18 +57,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenainy-aizen&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views" />
 </p>
--->
-<!--
-**Kenainy-aizen/Kenainy-aizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
