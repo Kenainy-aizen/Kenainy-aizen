@@ -35,6 +35,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kenainy-aizen&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenainy-aizen&theme=radical&hide_border=true" alt="GitHub streak" height="180" />
 </div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
+
 
 <!--
 ### 🔥 Featured Projects
