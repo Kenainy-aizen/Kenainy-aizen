@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Kenainy-aizen</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20TypeScript-ffb703?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-JavaScript%20%7C%20Python-ffb703?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-8ecae6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js-90be6d?style=for-the-badge" />
 </p>
