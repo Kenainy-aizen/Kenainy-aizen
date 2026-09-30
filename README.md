@@ -33,12 +33,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kenainy-aizen&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenainy-aizen&theme=radical&hide_border=true" alt="GitHub streak" height="180" />
 </div>
-
+<!--
 ### 🔥 Featured Projects
 - [Project 1](https://github.com/Kenainy-aizen/your-project-1) — Short description of what it does
 - [Project 2](https://github.com/Kenainy-aizen/your-project-2) — Short description
 - [Project 3](https://github.com/Kenainy-aizen/your-project-3) — Short description
-
+-->
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://github.com/Kenainy-aizen">
